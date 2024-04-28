@@ -4,7 +4,7 @@ import matter from 'gray-matter'
 import fetch from 'node-fetch'
 import { Content, TransformContext } from 'vitepress'
 
-const baseUrl = '/'
+const baseUrl = '/bedrock-wiki/'
 
 // define whether big pages should be built.
 // fastBuild should only be used when testing, since it will not compile some of the wikis content.
