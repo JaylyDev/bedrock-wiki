@@ -1,7 +1,0 @@
-node_modules
-.DS_Store
-docs/.vitepress/dist
-docs/.vitepress/.temp
-*.code-workspace
-yarn.lock
-.vscode/settings.json

@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/bedrock-wiki/sw.js', { scope: '/bedrock-wiki/' })})}
